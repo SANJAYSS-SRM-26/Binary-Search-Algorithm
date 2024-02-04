@@ -7,7 +7,7 @@ README.md: Provides an overview of the binary search algorithm and instructions 
 
 # How to Use:
 Clone the repository to your local machine.
-Compile the binary_search.c file using any C compiler (e.g., gcc).
+Compile the Binarysearch.c file using any C compiler (e.g., gcc).
 Run the compiled executable.
 The program will prompt you to enter the element you want to search for.
 It will then display whether the element is present in the array and its index if it exists.
